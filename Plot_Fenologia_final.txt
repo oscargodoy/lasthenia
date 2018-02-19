@@ -1,0 +1,7 @@
+Species	Range	Niche differences	Fitness differences
+Bromus	Early	0.3708832	0.401931915
+Bromus	Medium	0.479821695	0.785515904
+Bromus	Late	0.286107159	0.356626593
+Lactuca	Early	0.980185063	0.010329218
+Lactuca	Medium	0.969857971	0.012673319
+Lactuca	Late	0.980185063	0.007579795
