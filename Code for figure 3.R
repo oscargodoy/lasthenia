@@ -297,14 +297,14 @@ legend(0, 8, c("Bromus", "Lactuca"), col = c(1, 1), lwd=c(1,1), lty=c(0,0),  pch
 arrows(x0=0.9895, x1=1, y0=4.6, y1=8, length=0, lty=1, lwd=3, col="red")
 
 #Bromus
-text(x=0.47, y=1.3, "Early")
-text(x=0.35, y=0.9, "Middle")
-text(x=0.18, y=1.3, "Late")
+text(x=0.47, y=1.3, "Middle")
+text(x=0.35, y=2.05, "Early")
+text(x=0.02, y=1.3, "Late")
 
 #Lactuca
-text(x=0.87, y=5, "Early")
-text(x=0.87, y=4.65, "Middle")
-text(x=0.89, y=4.3, "Late")
+text(x=0.97, y=5.7, "Early")
+text(x=0.89, y=5.5, "Late")
+text(x=0.90, y=4.9, "Middle")
 
 text(x=0.8,y=7.5, "Exclusion", font=3)
 text(x=0.8,y=0.2, "Coexistence", font=3)
